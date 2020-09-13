@@ -1,4 +1,5 @@
-Hi I'm Osman
+### Hi there 👋
+#Hi I'm Osman
 
 ### Built With...
 - HTML
@@ -24,5 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### Hi there 👋
+
 -->
