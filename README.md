@@ -1,4 +1,15 @@
-### Hi there 👋
+Hi I'm Osman
+
+### Built With...
+- HTML
+- CSS
+- JS
+- React/React Native
+- Node.js
+- Python
+- MySQL
+- MongoDB
+- MariaDB
 
 <!--
 **osmancbk/osmancbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 -->
