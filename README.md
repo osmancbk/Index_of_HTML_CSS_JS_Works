@@ -1,6 +1,6 @@
-### Hi I'm Osman 👋
+## Hi I'm Osman 👋
 
-### Built With...
+### 🛠 Built With ... 
 - HTML
 - CSS
 - JS
