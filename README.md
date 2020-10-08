@@ -43,7 +43,5 @@
 - **Survey-Form-Netflix (HTML, CSS)** <br/>[Repository](https://github.com/osmancbk/Survey-Form-Netflix) - 
   [Live demo](https://osmancbk.github.io/Survey-Form-Netflix/) <br/>
   <img src="images/Project_001_.png" width="400"><br/><br/><br/><br/>
-- **Early Portfolio (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/WebSite_Basic_Practices_HTML_CSS_JS.git) - 
-  [Live demo](https://semihdurmus.github.io/WebSite_Basic_Practices_HTML_CSS_JS/) <br/>
-  <img src="images/2019.jpg" width="400"><br/><br/><br/><br/>
+
    
