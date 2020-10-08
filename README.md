@@ -7,7 +7,7 @@
   [Live demo](https://osmancbk.github.io/Menu-List/)<br/>
   <img src="images/menu.png" width="400"><br/><br/><br/><br/>
 - **To_Do_List (HTML, CSS-Responsive, JS)** <br/>[Repository](https://github.com/osmancbk/To_Do-List) - 
-  [Live demo](https://osmancbk.github.io/To_Do-List/)<br/>
+  [Live demo](https://osmancbk.github.io/To_Do_List/)<br/>
   <img src="images/todo.png" width="400"><br/><br/><br/><br/>
 - **Calculator (HTML, CSS, JS)** <br/>[Repository](#) - 
   [Live demo](#)<br/>
