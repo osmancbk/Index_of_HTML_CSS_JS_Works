@@ -15,6 +15,7 @@
 - **Hangman_Game (HTML, CSS-Responsive, JS)** <br/>
 <br/>
   <img src="images/hangman.png" width="400"><br/><br/><br/><br/>
+
 - **Website-Page-Design (HTML, SASS-Responsive, JS)** <br/>[Repository](https://github.com/osmancbk/Website-Page-Design) - [Live demo](https://osmancbk.github.io/Website-Page-Design/)<br/>
   <img src="images/1.png" width="400"><br/>
   <img src="images/2.png" width="400"><br/>
@@ -30,10 +31,10 @@
   <img src="images/page.png" width="400"><br/><br/><br/><br/>
 - **parallaxSite (HTML, SASS-Responsive)** <br/>[Repository](https://github.com/osmancbk/parallaxSite) - [Live demo](https://osmancbk.github.io/parallaxSite/)<br/>
   <img src="images/0.png" width="400"><br/><br/><br/><br/>
-- **Checkout-Form (HTML, Bootstrap)** <br/>[Repository](https://github.com/osmancbk/Checkout-Form/settings) - [Live demo](https://osmancbk.github.io/Checkout-Form/)<br/>
+- **Checkout-Form (HTML, Bootstrap)** <br/>[Repository](https://github.com/osmancbk/Checkout-Form) - [Live demo](https://osmancbk.github.io/Checkout-Form/)<br/>
   <img src="images/checkout.png" width="400"><br/><br/><br/><br/>
-- **Digital_Clock (HTML, CSS-Responsive, JS)** <br/>[Repository]() - 
-  [Live demo]() <br/>
+- **Digital_Clock (HTML, CSS-Responsive, JS)** <br/>
+<br/>
   <img src="images/clock.png" width="400"><br/>
   <img src="images/clock.png" width="400"><br/><br/><br/><br/>
 - **Google-Landing-Page (HTML, CSS)** <br/>[Repository](https://github.com/osmancbk/Google-Landing-Page) - [Live demo](https://osmancbk.github.io/Google-Landing-Page/.)<br/>
