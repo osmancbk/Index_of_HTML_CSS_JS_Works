@@ -17,8 +17,8 @@
   <img src="images/hangman.png" width="400"><br/><br/><br/><br/>
 
 - **Website-Page-Design (HTML, SASS-Responsive, JS)** <br/>[Repository](https://github.com/osmancbk/Website-Page-Design) - [Live demo](https://osmancbk.github.io/Website-Page-Design/)<br/>
-  <img src="images/web1.png" width="400"><br/>
-  <img src="images/web2.png" width="400"><br/>
+  <img src="images/web1.png" width="400"><br/><br/>
+  <img src="images/web2.png" width="400"><br/><br/>
   <img src="images/web3.png" width="400"><br/><br/><br/><br/>
 - **Find-Number (HTML, CSS-Responsive, JS)** <br/>[Repository](https://github.com/osmancbk/Find-Number) - 
   [Live demo](https://osmancbk.github.io/Find-Number/) <br/>
