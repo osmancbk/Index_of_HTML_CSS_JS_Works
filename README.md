@@ -11,10 +11,10 @@
   <img src="images/todo.png" width="400"><br/><br/><br/><br/>
 - **Calculator (HTML, CSS, JS)** <br/> 
   <br/>
-  <img src="images/calculator.png" width="400"><br/><br/><br/><br/>
+  ...<br/><br/><br/><br/>
 - **Hangman_Game (HTML, CSS-Responsive, JS)** <br/>
 <br/>
-  <img src="images/hangman.png" width="400"><br/><br/><br/><br/>
+  ...<br/><br/><br/><br/>
 
 - **Website-Page-Design (HTML, CSS-Responsive, JS)** <br/>[Repository](https://github.com/osmancbk/Website-Page-Design) - [Live demo](https://osmancbk.github.io/Website-Page-Design/)<br/>
   <img src="images/web1.png" width="400"><br/>
